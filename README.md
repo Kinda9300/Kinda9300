@@ -8,3 +8,4 @@
 Kinda9300/Kinda9300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/uzedaddy0211"><img src="https://api.daily.dev/devcards/bf446ef737dc4caa8ae72380a5e06008.png?r=ra4" width="400" alt="uzedaddy's Dev Card"/></a>
